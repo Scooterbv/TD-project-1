@@ -43,7 +43,7 @@ a:hover {
 .nav .name {
     display: block;
     margin-right: auto;
-    color: white;
+    color: 	#1E90FF;
 }
 .nav li {
   padding: 5px 10px 10px 10px;
@@ -52,7 +52,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #ff9904;
 }
 
 header {
@@ -86,7 +86,7 @@ header .profile-image:hover {
 }
 .location {
   background-color: #222;
-  color: yellow;
+  color: 	#1E90FF;
 }
 .card {
   margin: 30px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: purple;
 }
 
 ul.skills {
@@ -167,18 +167,10 @@ a.social:hover {
   clear: both;
 }
 
-#ibanez  {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
+#bryne {
   border-radius: 50%;
-}
+  width: 350px;
 
-#bjj  {
-  margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
 }
 
 /* Styles for larger screens */
